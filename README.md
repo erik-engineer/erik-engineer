@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=Software%20Engineer%20%7C%20AI%20Engineer&fontAlignY=40&fontColor=ffffff&desc=C%20•%20C++%20•%20C%23%20•%20Node.js%20•%20Python%20•%20LLM%20Systems&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=AI%20Engineer&fontAlignY=40&fontColor=ffffff&desc=C%20•%20C++%20•%20C%23%20•%20Node.js%20•%20Python%20•%20LLM%20Systems&descAlignY=60&animation=fadeIn" width="100%" />
 
 # 👋 Welcome
 
@@ -36,7 +36,9 @@ class SoftwareEngineer {
     skills = {
         "Systems Programming",
         "Backend Architecture",
+        "CyberSecurity",
         "AI / LLM Engineering",
+        "AI Agent, Agentic Workflow",
         "Cloud Infrastructure",
         "Developer Tools",
         "Automation"
@@ -44,14 +46,18 @@ class SoftwareEngineer {
 
     languages = {
         "C", "C++", "C#", "JavaScript",
-        "TypeScript", "Python"
+        "TypeScript", "Python", "Rust"
     };
 
     interests = {
         "AI Agents",
         "Distributed Systems",
+        "Hermes Agent",
         "RAG Pipelines",
+        "Multi-platform Desktop Application",
+        "Application Mobile",
         "Cloud Native Apps",
+        "Cyber Security",
         "Performance Optimization",
         "Scalable APIs"
     };
