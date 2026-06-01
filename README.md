@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=AI%20Engineer&fontAlignY=40&fontColor=ffffff&desc=C%20•%20C%67%67%20•%20C%23%20•%20Node.js%20•%20Python%20•%20LLM%20Systems&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=AI%20Engineer&fontAlignY=40&fontColor=ffffff&desc=C%20•%20C%2B%2B%20•%20C%23%20•%20Node.js%20•%20Python%20•%20LLM%20Systems&descAlignY=60&animation=fadeIn" width="100%" />
 
 # 👋 Welcome
 
